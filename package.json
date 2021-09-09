@@ -10,8 +10,10 @@
   "author": "philip dein",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "nodemon": "^2.0.12",
-    "pg": "^8.7.1"
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2"
   }
 }
